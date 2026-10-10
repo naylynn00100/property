@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Publishing"
+  short_description: "Publish sibling apps and root submodules"
+  default_prompt: "Use $github-publishing to publish the sibling projects and synchronize the root repository."

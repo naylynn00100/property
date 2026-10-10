@@ -1,0 +1,6 @@
+[submodule "property-api"]
+	path = property-api
+	url = https://github.com/naylynn00100/property-api.git
+[submodule "property-web"]
+	path = property-web
+	url = https://github.com/naylynn00100/property-web.git
